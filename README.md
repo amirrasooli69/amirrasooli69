@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amir Rasooli
 - 👀 I’m interested in web programming
-- 🌱 I’m currently learning JavaScript and React
-- 📫 You can find me in Linkin amir-rasooli-488b38114
+- 🌱 I’m currently learning JavaScript, React and NextJs
+- 📫 You can find me in Linkin amir-rasooli
                          and instagram Amir_Rasooli
 
 <!---
